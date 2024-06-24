@@ -9,7 +9,7 @@ const ans = document.getElementById("Answer");
 
 function toCelsius(temp){
     temp = tempValue.value;
-    return (temp*32-32)*5/9;
+    return (temp-32)*5/9;
 }
 
 function toFahrenheit(temp){
