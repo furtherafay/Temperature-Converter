@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form{
+    background-color: rgb(197, 196, 196);
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 25px;
+    margin: auto;
+    width: 250px;
+    height: auto;
+    box-shadow: 5px 5px;
+}
+
+#convButton{
+    border-radius: 10px;
+    height: 30px;
+    font-size: 1.1em;
+}
+
+#tempInput{
+    text-align: center;
+    border-radius: 10px;
+    height: 20px;
+}
